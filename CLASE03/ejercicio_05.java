@@ -8,7 +8,7 @@ Estás interesado en comprarte un nuevo PC y en la tienda de tu barrio
 cuesta 660€ con todos los accesorios incluidos. Sin embargo, el vendedor
 te descuenta el 10% por pronto pago ¿Cuánto tienes que pagar en total
 por el ordenador con todos los accesorios?*/
-public class ejercicio_05 {
+public class Ejercicio_05 {
     public static void main(String[] args) {
         var precioOrdenador = 660;
         var descuento = precioOrdenador * 0.10;
