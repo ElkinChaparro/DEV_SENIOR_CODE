@@ -5,3 +5,5 @@ public class Ejercicio_06 {
         
     }
 }
+// 20 % 7
+// 20 % 2
