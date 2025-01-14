@@ -10,18 +10,24 @@ public class Ciclos {
         scanner.close();
     }
 
+    private static void pressEnter(Scanner scanner){
+        System.out.println("Presione Enter para Continuar");
+        scanner.nextLine();
+    }
+
     private static void showMenu(Scanner scanner) {
         int option;
         do {
             System.out.println("=============================");
             System.out.println("=======Menu clase 5==========");
             System.out.println("=============================");
-            System.out.println("=1. Prueba While=============");
-            System.out.println("=2. Prueba Do-While==========");
-            System.out.println("=3. Prueva For===============");
-            System.out.println("=0. Salir de la App==========");
+            System.out.println("=1. Prueba While");
+            System.out.println("=2. Prueba Do-While");
+            System.out.println("=3. Prueva For");
+            System.out.println("=0. Salir de la App");
             System.out.print("Ingresa uns opcion: ");
             option = scanner.nextInt();
+            scanner.nextInt();
             switch (option) {
                 case 1:
                     Whiletest();
@@ -38,6 +44,9 @@ public class Ciclos {
                 default:
                     System.err.println("Opcion invalida, ingrese una opcion valida.");
                     break;
+            }
+            if (option !=0) {
+                pressEnter(scanner);
             }
         } while (option != 0);
 
