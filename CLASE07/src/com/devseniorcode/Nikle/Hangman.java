@@ -10,12 +10,10 @@ public class Hangman {
     public static void StartGame() {
 
         // Lista de palabras
-        var words = List.of("Mariposa", "Elefante", "Helicóptero", "Astronauta", "Biblioteca", "Dinosaurio",
-                "Espejismo", "Fotografía", "Girasol", "Hipopótamo");
-
+        var words = List.of("Mariposa", "Elefante", "Helicoptero", "Astronauta", "Biblioteca", "Dinosaurio",
+                "Espejismo", "Fotografia", "Girasol", "Hipopotamo");
         var sc = new Scanner(System.in);
         var rnd = new Random();
-
         var playAgain = false;
 
         do {
@@ -36,7 +34,6 @@ public class Hangman {
         var gessed = new ArrayList<Character>();
         // Lista de letras de la palabra
         var letters = new ArrayList<Character>(word.length());
-
         for (int i = 0; i < word.length(); i++) {
             letters.add('_');
         }
@@ -48,12 +45,13 @@ public class Hangman {
             // pedir la letra al usuario
             System.out.print("Ingrese una nueva letra: ");
             var letter = sc.nextLine().toUpperCase().charAt(0);
-
+            if (!Character.isLetter(letter)) {
+                System.out.println("No es una letra valida");
+            }
             if (gessed.contains(letter)) {
                 System.out.println("Letra ya ingresada ");
                 continue;
             }
-
             // verificar la letra en a palabra
             if (word.indexOf(letter) != -1) {
                 // Si existe, agregamos la letra a la cadena adivinada
