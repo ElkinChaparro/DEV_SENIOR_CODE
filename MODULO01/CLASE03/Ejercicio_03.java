@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 3: ¿Cuántos peces hay en el acuario?
 El agua de las granjas de Minnesota, Iowa, Illinois, Wisconsin, Missouri,
 Tennesse, Arkansas, Misssissipi y Louisiana desemboca en el Océano Atlántico

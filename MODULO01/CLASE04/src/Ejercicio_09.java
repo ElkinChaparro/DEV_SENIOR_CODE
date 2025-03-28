@@ -1,3 +1,5 @@
+package MODULO01.CLASE04.src;
+
 /*## Ejercicio 9
 Un vendedor al por mayor de camisas ofrece diferentes precios de acuerdo a la cantidad de unidades que le compren. La siguiente tabla muestra la información: 
 | Unidades | Precio por unidad |

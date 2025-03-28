@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 1:  6 / 2 ( 1 + 2 )
 El orden de los operadores aritméticos es muy importante ya que dependiendo
 del orden obtenemos un resultado u otro. En programación, el orden de los

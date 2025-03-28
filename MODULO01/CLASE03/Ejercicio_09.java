@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 9: Conversión de Temperaturas
 Escribe un programa que convierta una temperatura
 dada en grados Celsius a grados Fahrenheit y Kelvin.

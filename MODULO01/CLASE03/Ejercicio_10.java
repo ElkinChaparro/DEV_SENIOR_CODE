@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 10: Media Aritmética
 Crea un programa que calcule la media aritmética
 de tres números introducidos por el usuario.*/

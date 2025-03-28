@@ -1,3 +1,5 @@
+package MODULO01.CLASE05;
+
 import java.util.Scanner;
 
 public class Ciclos {

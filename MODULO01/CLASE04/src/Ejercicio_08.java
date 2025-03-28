@@ -1,3 +1,5 @@
+package MODULO01.CLASE04.src;
+
 /*## Ejercicio 8
 Escriba un programa que permita ingresar un número (va a representar la cantidad de años) y de como respuesta la etapa en la que se encuentra la persona de acuerdo con la siguiente tabla.
 

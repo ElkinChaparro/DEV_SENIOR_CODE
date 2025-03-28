@@ -1,3 +1,5 @@
+package MODULO01.CLASE04.src;
+
 /*## Ejercicio 4
 Escriba un programa que permita ingresar una letra e
 identifique si la letra es mayúscula o minúscula.*/

@@ -1,3 +1,5 @@
+package MODULO01.CLASE04;
+
 import java.util.Scanner;
 import java.util.Random;
 

@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 8: Área y Perímetro de un Rectángulo
 Crea un programa que calcule el área y el perímetro
 de un rectángulo. Solicita al usuario la longitud

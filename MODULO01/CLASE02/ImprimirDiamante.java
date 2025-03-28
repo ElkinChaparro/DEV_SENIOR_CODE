@@ -1,4 +1,4 @@
-package CLASE02;
+package MODULO01.CLASE02;
 
 public class ImprimirDiamante {
     public static void main(String[] args) {

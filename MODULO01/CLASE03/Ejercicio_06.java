@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 6: ¿Qué precio tenían antes del descuento?
 
 En España, las rebajas de invierno suelen comenzar entre

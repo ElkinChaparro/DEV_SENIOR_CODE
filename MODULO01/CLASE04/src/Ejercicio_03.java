@@ -1,3 +1,5 @@
+package MODULO01.CLASE04.src;
+
 /*## Ejercicio 3
 Escriba un programa que permita ingresar un número e identificar si es par o impar.*/
 

@@ -1,4 +1,4 @@
-package tresenlinea;
+package MODULO01.CLASE06.src.tresenlinea;
 
 import java.util.Scanner;
 

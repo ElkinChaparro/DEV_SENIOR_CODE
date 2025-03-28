@@ -1,3 +1,5 @@
+package MODULO01.CLASE04.src;
+
 /*## Ejercicio 1
 Escriba un programa que permita ingresar un número real e identifique
 si el número es negativo, positivo o cero.*/

@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 7: Calculadora Básica
 Escribe un programa que solicite al usuario dos números
 y luego realice las operaciones de suma, resta, multiplicación

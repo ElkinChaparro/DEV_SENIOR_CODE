@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 4: ¿Cuánto se ha gastado Carmen?
 La posibilidad de ir al cine entre semana pagando un precio
 reducido es una tradición en las salas de cine españolas,

@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 2: ¿Ves algún error en el precio?
 En el mercado, podemos encontrar que el precio del producto
 **Pernil Iberic D'Engreix Llen. Azuaga** en porción de 100

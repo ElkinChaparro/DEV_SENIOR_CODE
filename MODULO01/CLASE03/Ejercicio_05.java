@@ -1,3 +1,5 @@
+package MODULO01.CLASE03;
+
 /*## Ejercicio 5: ¿Cuánto te ha costado el ordenador?
 El videojuego en el ordenador está viviendo una nueva época
 de oro con un montón de juegos exclusivos. Para comprarte un PC Gamer

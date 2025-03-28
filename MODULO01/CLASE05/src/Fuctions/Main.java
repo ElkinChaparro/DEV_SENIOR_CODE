@@ -1,4 +1,4 @@
-package Fuctions;
+package MODULO01.CLASE05.src.Fuctions;
 
 import java.lang.Math;
 import java.util.Random;
