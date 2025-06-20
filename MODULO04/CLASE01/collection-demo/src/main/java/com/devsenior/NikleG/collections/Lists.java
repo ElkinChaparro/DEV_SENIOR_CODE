@@ -1,16 +1,15 @@
-package com.devsenior.collections;
+package com.devsenior.NikleG.collections;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Lists {
 
     public void performDemo() {
-        List list = new ArrayList();
+        List <Number>list = new LinkedList();
         list.add (1);
         list.add (10);
-        list.add ("Elkin");
-        list.add (1, "DevSenior");
+        list.add (25L);
+        list.add (1, 28);
 
         for (var element : list) {
             System.out.println (element);
