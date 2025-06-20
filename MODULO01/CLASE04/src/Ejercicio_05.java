@@ -1,7 +1,8 @@
 package MODULO01.CLASE04.src;
 
 /*## Ejercicio 5
-Escriba un programa que permita ingresar una letra e identifique si es vocal o consonante.*/
+Escriba un programa que permita ingresar una letra e identifique
+si es vocal o consonante.*/
 
 import java.util.Scanner;
 
